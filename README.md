@@ -18,8 +18,10 @@ System Design Round:-
 **ThoughtSpot**
 
 Coding round
-Round 1. 
-Round 2. Auto fill or Auto text correction based on suggestion from netwrok request
+1. Round 1.
+<img width="260" alt="image" src="https://github.com/Ganpatkakar/Interview-questions/assets/13637167/795b035a-2159-4ba9-942c-150522f8a064">
+
+2. Round 2. Auto fill or Auto text correction based on suggestion from netwrok request
   Problem statement => 1. There will be an input field where you will be typing and during typing we need to provide suggestions to users about possible words, user can select any of suggestions and selected selection
   will replace current cursor position word.
   Given data => Possible suggestions imitating api response will be given.
