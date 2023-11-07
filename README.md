@@ -15,7 +15,7 @@ System Design Round:-
   Create Data table
 
 
-ThoughtSpot
+**ThoughtSpot**
 
 Coding round
 Round 1. 
@@ -29,6 +29,8 @@ System design round
 
 
 
-Atlassian
+**Atlassian**
+
 Round 1. File Manager system design
+
 <img width="258" alt="image" src="https://github.com/Ganpatkakar/Interview-questions/assets/13637167/bfce6f5e-3281-4008-926f-dde57df20876">
