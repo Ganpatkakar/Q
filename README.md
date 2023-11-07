@@ -13,5 +13,22 @@ Conding Round
 
 System Design Round:-
   Create Data table
+
+
+ThoughtSpot
+
+Coding round
+Round 1. 
+Round 2. Auto fill or Auto text correction based on suggestion from netwrok request
+  Problem statement => 1. There will be an input field where you will be typing and during typing we need to provide suggestions to users about possible words, user can select any of suggestions and selected selection
+  will replace current cursor position word.
+  Given data => Possible suggestions imitating api response will be given.
   
- 
+System design round
+  Notification system for web
+
+
+
+Atlassian
+Round 1. File Manager system design
+<img width="258" alt="image" src="https://github.com/Ganpatkakar/Interview-questions/assets/13637167/bfce6f5e-3281-4008-926f-dde57df20876">
