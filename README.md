@@ -36,3 +36,6 @@ System design round
 Round 1. File Manager system design
 
 <img width="258" alt="image" src="https://github.com/Ganpatkakar/Interview-questions/assets/13637167/bfce6f5e-3281-4008-926f-dde57df20876">
+
+Round 2: JS coding and browser coding round
+Design TICTACTOE game
