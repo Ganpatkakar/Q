@@ -1,8 +1,6 @@
-# Interview-questions
+# Q
 
-Ganpat Kakar
-
-Facebook:-
+Fb:-
 
 Conding Round
   1. Event handler: https://bigfrontend.dev/problem/create-an-Event-Emitter
@@ -15,7 +13,7 @@ System Design Round:-
   Create Data table
 
 
-**ThoughtSpot**
+**TS**
 
 Coding round
 1. Round 1.
@@ -31,7 +29,7 @@ System design round
 
 
 
-**Atlassian**
+**At**
 
 Round 1. File Manager system design
 
